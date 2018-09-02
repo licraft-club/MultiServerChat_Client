@@ -1,0 +1,9 @@
+main: com.gmail.shellljx.MultiServerChat_Client.Client
+name: MultiServerChat_Client
+version: 1.1.0
+author: shell
+depend: [Vault]
+softdepend: [MultiServerChatServer]
+commands:
+  wechat:
+    description: the basic command
